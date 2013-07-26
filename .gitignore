@@ -33,3 +33,5 @@ UniversidadVirtual/build
 UniversidadVirtual/gradlew
 gradlew.bat
 settings.gradle
+gradlew
+build.gradle
