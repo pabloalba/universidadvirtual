@@ -18,3 +18,18 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+#android studio files
+*.iml
+.idea
+build
+local.properties
+*.data
+*.bin
+build
+gradle
+.gradle
+UniversidadVirtual/build
+UniversidadVirtual/gradlew
+gradlew.bat
+settings.gradle
