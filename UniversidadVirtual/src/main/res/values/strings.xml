@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">universidadvirtual</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_stadium_list">Estadios</string>
+    <string name="title_stadium_detail">Detalle de estadio</string>
+    <string name="title_activity_stadium">Elige el estadio</string>
+    <string name="title_activity_player_selection">Elige tu jugador</string>
+    <string name="title_activity_youtube">YoutubeActivity</string>
+
+</resources>
